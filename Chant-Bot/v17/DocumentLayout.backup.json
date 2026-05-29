@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Rea-Bot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|c:\\users\\student\\desktop\\rea-bot\\chat-part2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|solutionrelative:chat-part2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|c:\\users\\student\\desktop\\rea-bot\\chat-part2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|solutionrelative:chat-part2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|c:\\users\\student\\desktop\\rea-bot\\chat-part2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|solutionrelative:chat-part2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|c:\\users\\student\\desktop\\rea-bot\\chat-part2\\responsesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08AFD43C-2815-43A3-9D74-F5B27DF5C726}|chat-part2\\Rea-Bot.csproj|solutionrelative:chat-part2\\responsesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\App.xaml",
+              "RelativeDocumentMoniker": "chat-part2\\App.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\App.xaml",
+              "RelativeToolTip": "chat-part2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T07:17:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponsesService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\ResponsesService.cs",
+              "RelativeDocumentMoniker": "chat-part2\\ResponsesService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\ResponsesService.cs",
+              "RelativeToolTip": "chat-part2\\ResponsesService.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAiwD4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T14:07:18.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "chat-part2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\MainWindow.xaml",
+              "RelativeToolTip": "chat-part2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-19T12:23:47.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "chat-part2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Rea-Bot\\chat-part2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "chat-part2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:23:47.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
